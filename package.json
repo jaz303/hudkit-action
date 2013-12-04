@@ -1,0 +1,25 @@
+{
+  "name": "hudkit-action",
+  "version": "0.0.0",
+  "description": "Actions for hudkit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jaz303/hudkit-action.git"
+  },
+  "keywords": [
+    "hudkit",
+    "action",
+    "ui",
+    "binding"
+  ],
+  "author": "Jason Frame <jason@onehackoranother.com> (http://jasonframe.co.uk)",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "dependencies": {
+    "signalkit": "~0.2.3"
+  }
+}
