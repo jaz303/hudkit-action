@@ -22,7 +22,7 @@ module.exports = function(fn, opts) {
 
     var actionFun = function() {
         if (actionFun._enabled) {
-            fn.apply(null, arguments);
+            return fn.apply(null, arguments);
         }
     }
 
