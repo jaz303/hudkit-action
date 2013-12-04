@@ -2,6 +2,8 @@
 
 An action is a wrapped, observable function that can be enabled/disabled. Actions are called just like normal functions but act as no-ops when disabled.
 
+Note: this module was written for [hudkit](http://github.com/jaz303/hudkit.js) but can also be used in isolation.
+
 ## Install
 
     $ npm install hudkit-action
