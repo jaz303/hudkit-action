@@ -59,4 +59,4 @@ Set action enabled explicitly.
 
 #### `action.onchange`
 
-[http://github.com/jaz303/signalkit](Signalkit) signal that will be emitted when the action's state is changed.
+[Signalkit](http://github.com/jaz303/signalkit) signal that will be emitted when the action's state is changed.
