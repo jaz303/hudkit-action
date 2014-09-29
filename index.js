@@ -1,4 +1,4 @@
-var signal = require('signalkit');
+var signal = require('hudkit-values').signal;
 
 var ActionProto = Object.create(Function.prototype);
 

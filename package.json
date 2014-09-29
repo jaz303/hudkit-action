@@ -20,6 +20,6 @@
   "license": "MIT",
   "readmeFilename": "README.md",
   "dependencies": {
-    "signalkit": "~0.2.3"
+    "hudkit-values": "^1.0.1"
   }
 }
